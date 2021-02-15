@@ -14,9 +14,9 @@
 
 # Socials
 
-- [Discord](http://l.mrcube.live/discord)
-- [Twitch](http://l.mrcube.live/twitch)
-- [YouTube](http://l.mrcube.live/youtube)
-- [Twitter](http://l.mrcube.live/twitter)
-- [Reddit](http://l.mrcube.live/reddit)
-- [GitHub](http://l.mrcube.live/github)
+- [Discord](https://mrcube.live/discord)
+- [Twitch](https://mrcube.live/twitch)
+- [YouTube](https://mrcube.live/youtube)
+- [Twitter](https://mrcube.live/twitter)
+- [Reddit](https://mrcube.live/reddit)
+- [GitHub](https://mrcube.live/github)
