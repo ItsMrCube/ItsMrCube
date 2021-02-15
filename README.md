@@ -4,7 +4,7 @@
 
 - Sardinian, 14 year old, doesn't know what he's doing.
 - Is learning NodeJS, HTML and CSS.
-- Creator of [CubedBot](https://l.mrcube.live/discord) and [Chile](https://mrcube.live/chile).
+- Creator of [CubedBot](https://mrcube.live/discord) and [Chile](https://mrcube.live/chile).
 
 # What does he do?
 
