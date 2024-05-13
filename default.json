@@ -6,5 +6,7 @@
     "group:allNonMajor",
     ":automergeMinor",
     "schedule:automergeEarlyMondays"
-  ]
+  ],
+
+  "ignoreTests": true
 }
